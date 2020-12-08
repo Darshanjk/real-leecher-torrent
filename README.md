@@ -40,6 +40,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 a)You have to fork this repo at first(Don't know how to🤔, Then google it😐)
 
 Tap Deploy Below 👇👇👇
+https://deploy.cloud.run/
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Judhistir88/Torrent-Leech-Gdrive) #Revived
 
